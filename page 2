@@ -25,5 +25,11 @@
 
   <div class="box">text box one</div>
   <div class="box">text box 2</div>
+
+p>
+
+    <a href="yippee.html">page3</a>
+    <a href="index.html">pagetwo</a>
+</p>
 </body>
 </html>
