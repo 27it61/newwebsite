@@ -1,0 +1,29 @@
+
+<html>
+<head>
+  
+  <style>
+    body {
+      text-align: center;
+    }
+
+    header {
+      background-color:cyan
+
+    }
+
+    .box {
+      border: 1% red;
+      width: 40%
+      padding: 2%
+    
+    }
+  </style>
+</head>
+<body>
+  <header>Page two</header>
+
+  <div class="box">text box one</div>
+  <div class="box">text box 2</div>
+</body>
+</html>
